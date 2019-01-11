@@ -1,0 +1,27 @@
+INSTANCE:             |      OPT:
+----------------------|----------
+ar9152.dmx            |      4349
+ch71009.dmx           |     35025
+ei8246.dmx            |      4123
+fixed.dmx             |       500
+gr9882.dmx            |      4931
+K2.dmx                |         1
+K3.dmx                |         1
+K4.dmx                |         2
+lu980.dmx             |       490
+P3.dmx                |         2
+pbd984.dmx            |       492
+peterson.dmx          |         5
+pma343.dmx            |       171
+queen10_10.dmx        |        50
+queen11_11.dmx        |        60
+queen16_16.dmx        |       128
+queen27_27.dmx        |       364
+queen4_4.dmx          |         8
+queen5_5.dmx          |        12
+queen6_6.dmx          |        18
+queen7_7.dmx          |        24
+queen8_8.dmx          |        32
+queen9_9.dmx          |        40
+simple.dmx            |         2
+xqf131.dmx            |        64
